@@ -4,4 +4,5 @@
 
 
 A simple pace calculator made with Python [code snippet](https://tmolam.github.io/Tools-Projects/tahtilaskuri.html)
+
 Active Directory course project [details](https://tmolam.github.io/ActiveDirectoryProject/)
